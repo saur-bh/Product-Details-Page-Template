@@ -37,6 +37,7 @@
 	list-style-type: none;
 	padding: 1vw;
 	padding-left: 6vw;
+	margin-bottom: 1vw;
 }
 
 .but{
@@ -44,7 +45,7 @@
 	padding: 1vw;
 	font-size: 1.5vw;
 	border: solid;
-	box-shadow: 5px 10px #888888;
+	box-shadow: 0.4vw 0.8vw #888888;
 }
 
 .box{
@@ -54,5 +55,13 @@
 	margin-left: 6vw;
 	margin-right: 4vw;
 	height: 15vw;
-	box-shadow: 1px 0px 5px 10px #888888 inset;
+	box-shadow: 0.08vw 0px 0.4vw 0.8vw #888888 inset;
+}
+
+h1{
+	font-size: 2.5vw;
+}
+
+p{
+	font-size: 1vw;
 }
